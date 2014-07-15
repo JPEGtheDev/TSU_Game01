@@ -53,3 +53,4 @@ public class displayBoard : MonoBehaviour
 				}
 		}
 }
+//needs to be changed to prevent lag
